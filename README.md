@@ -1,4 +1,4 @@
-# Hi 👋, I'm Belinda
+<h1 align="center"># Hi 👋, I'm Belinda</h1>
 
 - 🔭 I'm currently working on **KNN**
 
