@@ -1,7 +1,5 @@
 # Hi 👋, I'm ChenJie
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Belinda116&label=Profile views&color=0e75b6&style=flat" alt="Belinda116" /> </p>
-
 - 🔭 I'm currently working on **KNN**
 
 - 🌱 I'm currently learning **DeepLearning**
