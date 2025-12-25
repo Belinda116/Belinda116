@@ -2,14 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Belinda116&label=Profile views&color=0e75b6&style=flat" alt="Belinda116" /> </p>
 
-- 🔭 I'm currently working on **KNN**-🔭我目前正在开发**KNN**
+- 🔭 I'm currently working on **KNN**
 
-- 🌱 I'm currently learning **机器学习，深度学习**
+- 🌱 I'm currently learning **DeepLearning**
 
-- 📫 How to reach me **3494347573@qq.com**-📫如何联系我**3494347573@qq.com**
+- 📫 How to reach me **3494347573@qq.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">   < p align   对齐 =“左”>
+<p align="left">
 <a href="https://github.com/Belinda116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Belinda116" height="30" width="40" /></a>
 </p>
 
