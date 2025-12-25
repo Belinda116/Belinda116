@@ -1,7 +1,5 @@
 <h1 align="center"># Hi 👋, I'm Belinda</h1>
 
-- 🔭 I'm currently working on **KNN**
-
 - 🌱 I'm currently learning **Deep Learning**
 
 - 📫 How to reach me **3494347573@qq.com**
