@@ -1,4 +1,4 @@
-<h1 align="center"># Hi 👋, I'm JIE CHEN</h1>
+<h1 align="center"># Hi 👋, I'm CJ</h1>
 
 - 🌱 I'm currently learning **Deep Learning**
 
